@@ -1,0 +1,2 @@
+/usr/bin/ar qc libides-s5.a CMakeFiles/ides-s5.dir/ides-s5.cpp.o
+/usr/bin/ranlib libides-s5.a
